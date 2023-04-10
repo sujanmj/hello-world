@@ -1,2 +1,78 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Test  </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,
+    initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Photography project by musaji</title>
+</head>
+
+<body>
+    <main>
+        <!--Landing Area-->
+        <div id="landing">
+            <div id="landing-text">
+                <div id="landing-text-inner">
+                    <h1>My Photography Website</h1>
+                    <h2>Beatyful Images</h2>
+                    <a href="#images" class="btn" id="view-work">
+                        View Work
+                    </a>
+                </div>
+            </div>
+            <div id="landing-image"></div>
+        </div>
+        <div id="images">
+            <div id="header">
+                <h2>My Work</h2>
+            </div>
+
+            <img src="https://source.unsplash.com/1600x900/?nature,water
+" alt="nature image">
+            <div class="caption">
+                <h3>Photo One</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, error!</p>
+            </div>
+            <img src="https://source.unsplash.com/1600x900/?nature,trees
+            " alt="nature image">
+            <div class="caption">
+                <h3>Photo Two</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, error!</p>
+            </div>
+            <img src="https://source.unsplash.com/1600x900/?nature,flowers
+            " alt="nature image">
+            <div class="caption">
+                <h3>Photo Three</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, error!</p>
+            </div>
+            <img src="https://source.unsplash.com/1600x900/?nature,animals
+            " alt="nature image">
+            <div class="caption">
+                <h3>Photo Four</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, error!</p>
+            </div>
+            <img src="https://source.unsplash.com/1600x900/?nature,clouds
+            " alt="nature image">
+            <div class="caption">
+                <h3>Photo Five</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, error!</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <h3>Get In Touch</h3>
+        <p>Email or call us to set up a consult</p>
+        <p>Email: <strong>alexandramusaj@gmail.com</strong></p>
+        <p>Phone:
+            <a href="+3595555555">
+                <strong>+30-6975507572</strong>
+            </a>
+        </p>
+    </footer>
+
+</body>
+ 
+</html>
